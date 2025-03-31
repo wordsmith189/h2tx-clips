@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "wordsmith189",
+    "is_private": false,
+    "title": "H2TX Interviews",
+    "description": "Clips from H2TX 2024 Language & Culture Interviews.",
+    "language": "en",
+    "slug": "h2tx-clips",
+    "creator": "wordsmith189",
+    "authors": "Lars Hinrichs, Sydney Quant, Jennifer L. Smith, Baylee Ross",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-03-31T07:05:07.539Z",
+    "updated_at": "2025-03-31T07:05:07.539Z"
   }
 }
