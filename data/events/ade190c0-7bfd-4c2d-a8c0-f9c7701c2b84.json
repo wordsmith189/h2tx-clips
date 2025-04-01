@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "5743771d-c680-4af6-beae-044923d1e571": {
+      "label": "Language_Lufkin_NR_06192024",
+      "is_offline": false,
+      "file_url": "https://archive.org/download/nr-06192024/NR_06192024.m4a",
+      "duration": 4171,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Lufkin_NR_06192024",
+  "created_at": "2025-04-01T18:12:36.075Z",
+  "created_by": "wordsmith189",
+  "updated_at": "2025-04-01T18:12:36.075Z",
+  "updated_by": "wordsmith189"
+}
