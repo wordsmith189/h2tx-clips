@@ -1,5 +1,2505 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 3,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There we go. Let's get started. This is Nicholas Reyna. Today is June 19"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "60bbad59-3490-45b6-ab47-f94867e19890"
+    },
+    {
+      "start_time": 14,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think so?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "5ec76bfb-e4af-4e59-bc6a-34f05f476128"
+    },
+    {
+      "start_time": 15,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "June 19 2024, and I am here in Lufkin, Texas, for an interview with one of our community members. Before we begin, I'd like to get verbal consent for the form that we went over. Could you please say- [NOTIFICATION]  I consent to being interviewed and audio recorded for the study?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "00218580-53ac-4cff-aa0b-e421fe5246ab"
+    },
+    {
+      "start_time": 32,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "d15cc4fb-4ae8-442a-92e0-5103318282b8"
+    },
+    {
+      "start_time": 34,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To get started, can you tell me about how you came to live in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "06c88438-f707-4f6e-a706-15ac7e1ae3dc"
+    },
+    {
+      "start_time": 38,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Born here, raised here? Um- finished school here. Um- went to college at SFA. So I've- this has been my area this is where I've been. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "04249dfd-5658-4f1c-a772-5c71b8b57e79"
+    },
+    {
+      "start_time": 51,
+      "end_time": 57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And could you tell me a bit more about this community? How would you describe it to someone who doesn't live here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "af568774-999c-4156-811e-8831bf2c6dbc"
+    },
+    {
+      "start_time": 57,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Today... Um- I think it's a good place to live. Uh- I think like every other place, it's got its problems. And they're probably more pronounced today than they were back when I was a kid. But I think it's close enough to the big city that you can do- go and enjoy the things of the big city, but you still be able to stay in a small town flavor. Where you live. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "06b91206-28aa-4eab-a63a-4994715478f8"
+    },
+    {
+      "start_time": 90,
+      "end_time": 94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And how do you think this community has changed throughout your time living here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "77ba6c44-b9c5-4de2-be94-8c5c0f8b2dd6"
+    },
+    {
+      "start_time": 94,
+      "end_time": 94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "throughout what?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "aee8a4d6-1abc-4236-b11c-8bedeb03734b"
+    },
+    {
+      "start_time": 94,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "throughout your time living here? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "a92245ad-33fc-41a0-a884-026bba39019d"
+    },
+    {
+      "start_time": 99,
+      "end_time": 200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's changed dramatically. When I was a kid, nobody locked their doors. This might be true for I think all over the united- or many places in the United States, not necessarily the south and here in Lufkin. But there just neighbors took care of neighbors. If someone told you something you could rely on it. My grandpa ****** used to say \"if that fellow tells you that a rooster dipped snuff, you can look under his wing and find his snuffbox\", because it would be the truth. And I think I think the biggest thing that's changed is the family unit in many cases. I think um- That's that's the sad part.  (Phone goes off) I think. That's really um- to have a mother and father, I never realized that where I'm headed with this is: I had a wonderful, wonderful parents. They were disciplinarian, and I have no problem with that. Didn't hurt me a bit. And, but as my son, my youngest, was in high school, he had some friends who didn't- who didn't have a two parent household. And until I've met those kiddos and kind of got involved in that and involved in the uh- athletics at Lufkin High School and the head coach here and I got to be good friends. And some of those kids, you don't realize. I didn't realize that I wish there was some way to fix that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "e944f5eb-58f5-4fe8-a4aa-065539a55d1a"
+    },
+    {
+      "start_time": 200,
+      "end_time": 204,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And what would you say are the strengths of this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "f7bcaee3-4ecd-4a63-9844-8a02ac3bff81"
+    },
+    {
+      "start_time": 204,
+      "end_time": 283,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Strength of the community? It's a can-do community. You call on people to do something- you asked for something- I think this can best be described as there was a ti- that the last bank I worked for the headquarters is in Nacogdoches, the bank is over 120 years old. It's been here forever been over there forever. But I worked and managed a branch here in Lufkin. And so I work closely with those folks and one of the guys who was telling me one day, he said, \"you know, the difference between Lufkin and Nacogdoches?\" And I said \"well, I know a lot of differences\". And he said, he said, \"you know, um- we built an expo center over here. And then Lufkin steps up and builds one we could set ours inside of\" and so anything this community needs like a community center, a Civic Center, an expo, whatever, they make it happen. And I've been into this and found this to be true. Um- I was the president and the secretary for the high school Booster Club, athletic Booster Club. And um- if we had a project, all we had to do was go talk to some of the businesses in town. And we'd get it done. It's just a can-do place."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "15d42635-0739-4d4a-a1ad-109fbd840de2"
+    },
+    {
+      "start_time": 283,
+      "end_time": 286,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And on the other hand, what would you say are some of the weaknesses?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "26a62b10-8952-4556-ad06-45ba76a76824"
+    },
+    {
+      "start_time": 286,
+      "end_time": 327,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um... you know, I've never thought of it that way because I've kind of lived in a bubble. and I don't see probably- I think there's probably more crime now than, than there was in the past. And I think that's true everywhere, but especially true here. And uh- I'll go off on a tangent here a little bit, you may want to draw me back in but- in 1972 I was dating a pretty girl, and she was a freshman at SFA. And I was at my first banking job. (Phone goes off) And um-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "5616b88a-b2f4-45d7-a150-83f4bf3fa936"
+    },
+    {
+      "start_time": 327,
+      "end_time": 329,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If you could put it on silent for a minute, sorry. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "c1f09929-8269-4df1-9f6f-2236ba5480ab"
+    },
+    {
+      "start_time": 329,
+      "end_time": 333,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I will, I should have done that to begin with.  But you can erase that part. Long story short, um- didn't never occurred to me, ever, in 1972 that this would happen to us. But we've been on a date, guy pulled a gun on us, put me in the trunk, tied me up, did some other horrible things. And we managed to get out of that. And so I never would have dreamed that would have happened back then. More likely now. So the bad people, and there's good people. And uh- always have been, always will be. That's just the way it is."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "7d9198c9-9bae-42cc-b5a5-88909ac0b1b8"
+    },
+    {
+      "start_time": 333,
+      "end_time": 381,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Could you tell me about the roles and relationships you have in this community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "85603956-2b26-4346-a811-6c14603a0fec"
+    },
+    {
+      "start_time": 381,
+      "end_time": 382,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The what?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "e0e7bc7a-4dc4-4aec-99b6-b13cb6bb194a"
+    },
+    {
+      "start_time": 382,
+      "end_time": 384,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The roles and relationships you have in this community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "7eaef186-e417-448a-aac2-18320a002c56"
+    },
+    {
+      "start_time": 384,
+      "end_time": 386,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the roles?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "762e3702-fccb-4111-b962-a62edb6633f7"
+    },
+    {
+      "start_time": 386,
+      "end_time": 387,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mhm. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "be46ee25-ba08-48c0-b5ac-cc1ba2a9a225"
+    },
+    {
+      "start_time": 387,
+      "end_time": 389,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "that I have in the community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "98e386f9-8b93-4cd9-a7de-d5b9413570c4"
+    },
+    {
+      "start_time": 389,
+      "end_time": 389,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mhm"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "3ac45949-f5ab-4df8-aa13-e4127141da52"
+    },
+    {
+      "start_time": 389,
+      "end_time": 442,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, being retired, I don't do what I used to do. But I at one time coach little league baseball, I was in the Lions Club. I was in the Kiwanis Club. It's expected of you when you work in a bank to be involved. I was I was on committees with the Chamber of Commerce. And um- but as I was when I retired, I um- retired. I thought I've coached and enough little league baseball, I've done- I've done what I, you know, need to do. So I still, you know, somewhat active in church and those kinds of things. But but as far as being a treasurer or board person, they asked me here the while back because I wanted to be on our local water board. I used to be the president and I went \"No. Thank you, no. That job didn't pay well. So I- \""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "412ba202-abed-4dc3-9b77-ea98d1bae64c"
+    },
+    {
+      "start_time": 442,
+      "end_time": 450,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I know you've already mentioned a few times. But if you want to elaborate or skip this question, what do you do for work?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "ba6d69d3-f8c8-4c23-abef-151194ad667b"
+    },
+    {
+      "start_time": 450,
+      "end_time": 526,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What did I do for work? Well, throughout my career, I did a little bit of everything. But this time with my retirement. My- my main focus was managing the second or other than the main office, mine was the biggest branch, I had 13-14 employees, and I was responsible for the profitability of the branch. But in addition to that, and I was given goals, and as far as production of loans, I was given the goals as to deposit growth. And you had to meet and clear those hurdles. Uh- And uh- the part I had and you may get to this later, but the part I really, I didn't care much about doing budgets, and I didn't care much for personnel issues. What I liked was talking to people, what I liked was uh- seeing somebody get a house that they had worked hard for and saved, and I felt like I was part of being able to see them move into a home. I also did but I also want them primarily I was called a commercial lender. But it- I still had customers that I had helped with car loans unless you're expected to see me do that. But those that's the part of the job. I really liked was was the people. I miss that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "2368693b-6bec-491d-93b7-3f042bc74f11"
+    },
+    {
+      "start_time": 526,
+      "end_time": 532,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And how do you think your connections in this community influenced your work as a banker?\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "54edb8b1-fac0-451a-81fa-2959c19ee884"
+    },
+    {
+      "start_time": 532,
+      "end_time": 534,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Give me that one again?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "4d9e6096-e5c5-4a8a-8da8-4244db50dc48"
+    },
+    {
+      "start_time": 534,
+      "end_time": 539,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do you think your connections in this community influenced your work as a banker?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "3eb366c9-31a0-41fe-9e36-eb3a1f075d02"
+    },
+    {
+      "start_time": 539,
+      "end_time": 691,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My connection in the community? (Mhm.) That's a good question. Because you typically are from my point of view. When you think of somebody that works at a bank, you typically think of somebody that likes to play golf, and somebody that may live in the Crown colony that uh- that likes to go to um- cocktail evenings and I'm a country guy. I do not like living you can see where I'm at my house is here in the woods. I never played golf. I hate it. not- l don't hate it. I tried it once I didn't like it seemed like a waste of time to me got it um- but so I knew that I knew that I didn't want to call it hob knob I didn't hob knob with a lot of doctors, had some attorney buddy, my best friend's an attorney and some people that I knew The local fellow that owned all McDonald's was a good friend of mine had recently passed away. And but recently he was my friend, is I used to fool with classic cars. And he did too. And one of my friends uh- from school was- restored cars. And so from that, we became good friends. Anyway. Um- I felt like my strength was that if it was a doctor, I could talk- and I had some doctor clients don't misunderstand. But my boss asked me one time or told me, he didn't, we were talking about what he wanted. He said, \"I want you, I would like to see more of a mix and see in your portfolio and in your deposit base for that branch. I would like to see more medical people\" and I had handful. And I said, \"if that's what you say, that's what I'll do\". I said but, you know what I'd rather have. This is what I told him, I said, \"I'd rather have 10 Good old boys that work at the foundry than one doctor\". He said, \"why?\" And my answer was, \"because those 10 Guys will be loyal to you. They don't beat you up for rates. They don't expect you to wait on them and drop what you're doing, and go cater to them\". And I guess probably I can relate to them better than I do. Doctors. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "e41fedf6-2d15-40c8-a925-42a2f0e01c82"
+    },
+    {
+      "start_time": 691,
+      "end_time": 699,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now I'd like to talk more about your work as a banker. Could you tell me about how you got into that role?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "ab230f56-8caa-40b4-b310-f84d25ef3426"
+    },
+    {
+      "start_time": 699,
+      "end_time": 949,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, it's pretty good story. When I was I went to SFA. And uh- can I digress a minute here? And I'll tell you something, that and this- I don't want to get into politics. But my father came back from World War Two with tuberculosis. He did a lot of stents in the VA hospital, he did nine months, once, six months, once, three months once. And because of that, we didn't have a terribly lot of money. Now we had we never went without. But um- when it came time to look at college, I would have liked to go to University of Texas. To be honest, I don't know if I was smart enough to get in. But there was no money for us. There was nothing and at that point in time, there were no, I mean, this is 1965. There's, you know, if there was any grants or anything, I knew nothing of it. But here's the plan. My dad worked 45 years, at the paper mill here. They had a summer work program. And he said, and I could make enough money, working at the Paper Mill in the summers to pay my tuition and buy my books at SFA. both semesters, I had to live at home. And I worked part time pumping gas. Now the reason I mentioned this is because if you want to do something, you can do it. You just got to figure out a way to make it happen sometimes. But so what happened then, and the Vietnam war was going on. And I was motivated [LAUGHTER} to stay in school, because you could get a deferment because the draft was going on. And then when they finally tried to draft me, I didn't pass the physical. But uh- it's another story for another time. But so I came- I got home. And here's the answer to your question. I had a buddy, a good buddy in high school who was working as a manager at a finance company. And, he, when I got came back from not passing the physical, well he and I were out messing around he said, Hey, what are you gonna do? And I said, I'm not sure I'm not sure at this point. And he said, Hey, I know where there's an opening at a finance company. And I said its plains finance, I don't know if it's even still here, but, or around but uh- long story short, I applied for the the position and I went to work for them as as a collector of past dues. And no, no, he worked for plains finance, let me straighten this up. And I went to work for Home Credit Corporation HCC credit, and they made loans up to $1,500. And they made smaller loans to folks and charged an exorbant interest rate and that sort of thing, but um- but they had a really good training program, they had a good training program relative to collecting past dues. And you didn't get promotions if you didn't pass these uh- programs that they put forth and if you wanted to be promoted, and- um- and so anyway, it was a good it was a good fortunate thing for me. One day though, I was went to lunch, and I had a buddy that I commuted with one semester over to SFA that wants to go with good friend of mine, ran into him at lunch, we were eatin at Dairy Queen. And he went, he was working at the old Lufkin National Bank. That's not here now. And he said, uh- he said, Hey, I'm being promoted. And my job's gonna be open. You're thinking about working for a bank. And I went: yeah it crossed my mind one time, but I never- And so I came into Lufkin National Bank as a trainee, and I worked as a teller. I worked in the accounts. I worked all over the bank, which was really great, and it gave me a good background. And from there, I went to another bank and got into lending. He got on a loan platform and went from there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "860083f5-59a6-4eb9-95a4-d661d32309c3"
+    },
+    {
+      "start_time": 949,
+      "end_time": 955,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And how long did you work? Or how long were you working?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "e3ec4435-3281-4222-90c1-cece7ca212b5"
+    },
+    {
+      "start_time": 955,
+      "end_time": 959,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I worked 40-45 years. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "c9df1a62-4192-40d8-a5d0-69877da959ba"
+    },
+    {
+      "start_time": 959,
+      "end_time": 964,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And what did a typical workday look like for you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "90769c51-3da3-4537-bfa8-ca6bb08d6491"
+    },
+    {
+      "start_time": 964,
+      "end_time": 1089,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Again, I rambled on you a little bit. Things that appealed to me about going to work for a bank, back in 1969- 70. No, 70 Excuse me, 71. Those days, no banks were open on Saturday. Many banks closed at two in the afternoon. Some at three. Now you didn't get to go home at two or three o'clock. But the doors were closed. And what you did was you balance your drawer, and you got everything ready for the next day. And you went on. And I thought yeah, this is my kind of deal. And, uh- but then bank started opening on Saturday, the hours change. And uh- at the, uh- at the end of the- at the end of the my, my career. We were open. We were open five and a half days a week. I didn't I didn't have to work on Saturday. Now, what I had did do was I had- I had two other loan officers that worked under me and we rotated. And we had to be on-call in case the tellers had a problem. But- But usually, I would be home by 5:00-5:30 La- later sometimes, and- and I asked my boss when I interviewed for the job. At the end of the interview, never will forget, I said I've got one more thing. He said, What's that? I said, \"I never asked to get off on play golf. I don't hunt. I fish a little bit, but I'm not asking to be off for that. But what I do like, Is Lufkin high school football. And what I would like is sometimes when there's an out of town game, I'd like to leave early.\" He said \"I don't care if you leave all day, as long as you got the job done.\" I said, \"Okay.\" so that that sold me on that. But yeah, that's- that that answered your question? That's what we did. That what we did."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "1babe2c5-33a6-4311-ae93-5c0f469d0d03"
+    },
+    {
+      "start_time": 1089,
+      "end_time": 1092,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "what does it mean to be a banker in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "c70b2b86-1e38-4e0d-bac8-7c81ceee0af2"
+    },
+    {
+      "start_time": 1092,
+      "end_time": 1184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um Even today, I ran into somebody here not long ago at a restaurant. And sadly, I didn't recognize them. But that's not unusual. Because with bankers, here's the deal. The people you get to know really well are the ones who struggle, because you're always talking to them. The ones you see every year or every other year. And all they come in to do is make a loan. I know I know them. But I didn't have a lot of interaction with those types. And this guy- this guy and his wife came, he said, \"***** ******, where have you been?\" And he shook my hand. He said, \"How are you?\" He said he looked at his wife said, \"This guy made me my first loan when I was 18 years old. And I have followed him to everybody\". That's cool. I- That uh- To think that you had an impact on somebody. Much like coaching little league ball, I still have some- they're not kids anymore. But when it's my birthday, I've still got some of those guys that are now almost 50 years old. That will send me a birthday and say \"Coach, I hope you had a great birthday\". So it's the relationships that last through the years and the things that you felt like you had a part of the- of their success that you, not you, partially the bank, but I was representative of the bank. And so if you help folks, that's the part. that's the part."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "fbc87fe9-4c3d-4384-924a-56f4ff4d6852"
+    },
+    {
+      "start_time": 1184,
+      "end_time": 1190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What aspects of your job bring you the most joy or satisfaction?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "539ec69c-f89b-4c02-b5e2-82c08763efbd"
+    },
+    {
+      "start_time": 1190,
+      "end_time": 1641,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I've already touched on that. I'll tell you a quick story. I worked at a little bank at one point and this lady came in who had rheumatoid arthritis. And she had one son that was special. But he could drive. She had another one that was wheelchair bound. And this lady, I don't know how she could function, but she came in. And she said, \"I need to borrow $500 to build a wheelchair ramp at my mobile home for my son in a wheelchair\". So I said, \"You bet\", and I pulled everything up and put it together. I don't think she had any credit. Consequently, it was with- outside my lending authority, if you don't have any credit, or if  you've got bad credit, but I went to the president of the bank was great guy, he's gone. Now. He's deceased. Named *** ****. And I said, here's this lady. He said, You tell her that the bank will pay for it. We'll just do that. And he said \"no wait a minute\". He said, \"You make- make her a loan, charge her a reasonable rate like 10%\", which is nothing on= you don't make anything on $500 10%. \"And if she pays it, she'll build some credit, and she may need something else down the line. And then you'll be in a situation or she'd be in a situation where you can help her\". As it turned out. She paid like, just like nobody's business. And I did make her more loans. And she did get credit established, and she had some credit. And then, in the course of this, uh- this lady developed some cancer on her nose, had to have her nose amputated. I mean, it was just one thing after another. But she was always up. And she came in. And she said, the paper mill, she lived in behind the paper mill, on some property, her property in a mobile home. She said \"they're buying up property around us, and they bought- made me an offer a pretty good offer. But I want to know if I can buy a house, and I found one I want\". I said, \"Absolutely\". And so we uh- just, she was so happy to get those kids in. And as luck as- is- things would to have it, the house was just down the road from where I live. But that lady passed away shortly after and did not get to enjoy it, and that was the saddest part. But to see somebody who was fighting to make... banking is one of the few professions that you- you can have an impact, I think on things like that, and helping people. And you know why I'm talking about this, you know, one of the things that banks, banks are regulated in on many fronts that everybody thinks in terms of safety and soundness. And that's where they come in and check your loans. But there's a lot of other audits by the government. And there's other regulations. One of them is called the Community Reinvestment Act. And the Community Reinvestment Act says, \"bank, you must do some things, in your community to benefit- using your banking knowledge, using your skills to help people who are low income\". So we look for thing- and if you do not, if you don't score well, you can even be monetarily penalized when you're audited on this. And if you want to build branches, you're not going to be able to build branches you're not gonna be able to make acquisitions, nothing. So it's pretty important. They're very serious about it. One of my customers was a warden at the prison, down in ******. And he and I were talking about plans one day he's actually I'll give him the credit he said, Hey, \"we- our prison is the last stop for these guys. They're going to be getting out within two years. Most of them or a year. And they are required to complete a life skills class\". He said \"would you come talk to those classes about what's changed in banking\"? I said \"you bet that's perfect. I mean, they're low to moderate income\". And I enjoyed going. I mean, the first time I went to go through all the gates and through the bars, you're out in the yard with them, and- and then you get in there. But it- And you look at the class and they would be sometimes 15, Sometimes 20 people in the class. You look at one guy and he looks like the kid next door. Look at another guy, and he looks like your grandfather. You know, can't ask them why they're there. If they volunteer, that's fine. But there's always- there was always almost without exception, there were two duds maybe three that would just put their heads down and go to sleep, didn't care don't want to hear. And and I would talk to him about how to open new accounts how to get your credit credit reestablished. I would talk to them if you're going to- thinking about doing a business, here's what you need to do you have questions, and there would be four or five that take notes and have questions. But I felt like- that um- if if some of that helped some of those guys, because I got a lot- they got a steep hill to climb. And- and so that's the kind of things people don't know that that banks do that, uh- And- and we also I went and I used to have a talk, and I would go about every year and talk to kids in high school. And it was about banking primarily but I also worked in one of my deals is kid- please, kids don't drink and drive. I mean, here's what it can cost you, stuff like that. Anyway, that was a long answer but it it banking afforded the opportunity for me to to feel like I was doing something good for somebody much like Little League Baseball. I loved being with those kids. And- and just I had one kid in particular who I started with him when he was six. I moved up to the next level. I got him again, and he had a temper and and to this day, when he got up he would ride a bicycle about five miles just to come see me man come see me to see if I'd give him a beer, and I'd go \"no\". I'm not gonna give you a beer. But But anyway, that's and you make good relationships with people there too. And people come bank with me because you lose for me to somebody does good something good for my kid. You got me I'm paying attention I'm- so anyways-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "1cea0f76-9efd-4763-af25-92ce51260eb6"
+    },
+    {
+      "start_time": 1641,
+      "end_time": 1645,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and what are the biggest challenges you faced in your work?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "da53348a-3f81-46cc-ba3a-ed3ea06d6965"
+    },
+    {
+      "start_time": 1645,
+      "end_time": 1926,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "biggest challenges today are at any point , uh-if we're talking today having attained my age, you've learned I've learned a lot of things the hard way. I have seen a lot of things. I can see how a molehill can turn into a mountain. I can see how you can get blindsided. So I- if there was if there was an Olympics for worrying, I- I would be first place most of the time, and particularly about my children. I don't want them making the same- And I've got one that just doesn't listen. never will. But, um- one of the hardest things that I've learned, I can't believe that I'm this old. That's the first thing. My brain. I can't get it in my head. My brain still thinks I'm 30 years old. And it tells my body: \"Oh, you can go cut that tree down and cut it up\". And about halfway through my body goes: \"You lied. You lied\". And so. So you my thinking hasn't changed until I look in a mirror I go \"oh man. who's that old guy?\" And so the hardest thing for me to do is remember, I can't do the things I once did i- You fool around and get hurt. And uh- my challenge when I was working was- um- I'm kind of competitive. And, uh- if I wasn't meeting goals, and if the branch wasn't meeting goals, I just agonized over it, and that probably took years off my life because I would worry about it because everybody wants to be a winner. You want to get you get patted on the back. I had- when I was at the bank that I told you about where the lady we were in a loan meeting one morning and one of the things she said track for the loan officers is your percentage of past dues. Percentage of loan if you've got a portfolio of- I think mine when I retired was approaching 40 million that I loaned out that was out on the books. If you're past dues that are 90- ur- that are 30 days- no, was it 60 to 90 days, past and more. If the percentage of that port- total portfolio you wanted it, ideally you wanted it under 2%. This bank that I worked for they were okay with three and a half percent. And of all the loan officers in that bank, mine, were always I was- mine my past dues. Were always I was a little. So in this loan meeting, the president of the bank **** **** again, he said, Well, Mr. We got that through over done. He said, \"Well, Mr. ***** you you've had some attaboys. Today, you got anything you want to say\". I said, I had been working at that time, I said, \"I've been working at the bank for 20 years, over 20 years. And one thing I've learned is that you can take a room full of attaboys. And all it takes is one Oh no. and they evaporatet\". He said \"you're exactly right\". And, and, and that probably was one of the toughest things. Because if you don't, if you don't, particularly with mortgage lending, it gets so complicated if you don't do the proper disclosures at the proper period of time, and, and so forth. The bank is- you can cost the bank money monetarily. And you can't, there are certain things you can't, you gotta be careful that you don't mislead them. You know, I mean, unintentionally, you would never do intentionally, but anyway, it's, it can be up from that standpoint. High pressure.so. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "2af5734e-9dc7-4494-b8db-07de81acc086"
+    },
+    {
+      "start_time": 1926,
+      "end_time": 1931,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright, so now, I want to talk to you more about your experience as a resident in this community. For this first set of questions, I'll read a statment to you. And I'd like you to indicate the extent of your agreement with each one. If you give your answer on a scale of one to four where one is completely disagree, two is somewhat disagree. Three is somewhat agree. Four is completely agree. If you'd like to comment on any statement, please feel free to."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "09471dc0-c3a1-40f8-b333-6d1b125e6c9c"
+    },
+    {
+      "start_time": 1931,
+      "end_time": 1943,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mmkay"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "75c17c9a-e9ad-4227-b4ea-d368599332f1"
+    },
+    {
+      "start_time": 1943,
+      "end_time": 1959,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright. The first phrase is I consider myself to be an American. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "dc6e4906-84ea-47be-af94-f84f93dd59bd"
+    },
+    {
+      "start_time": 1959,
+      "end_time": 1961,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Absolutely\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "4d5d3d22-0b55-40e9-9bd1-3747daa2a0ef"
+    },
+    {
+      "start_time": 1961,
+      "end_time": 1961,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "so a 4?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "d523ed00-504f-4b1f-9038-aba12d845338"
+    },
+    {
+      "start_time": 1961,
+      "end_time": 1969,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A 4 yeah"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "7f399002-e9b8-4651-9847-08d127d9cdbf"
+    },
+    {
+      "start_time": 1969,
+      "end_time": 1977,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "using the same scale, how would you rate the following statement? I consider myself to be a Texan. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "ebc68eb2-bf24-4352-a9ef-6f044e5f3ec5"
+    },
+    {
+      "start_time": 1977,
+      "end_time": 1979,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Four. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "68b6b182-9f15-4bc7-b84f-f35050a091f8"
+    },
+    {
+      "start_time": 1979,
+      "end_time": 1992,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Which of the following three statements do you agree with most strongly? I have American first and Texan. Second. I am Texan first and American second. Or being Texan and American are equally important to me.\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "85a0a8d1-3636-40a6-b67f-f1e5286a4b76"
+    },
+    {
+      "start_time": 1992,
+      "end_time": 2005,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I am a very proud Texan. So I think they're equally important. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "62076f98-c0b1-4ee0-b746-ffafabb6d31d"
+    },
+    {
+      "start_time": 2005,
+      "end_time": 2016,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The next phrase is to be a true Texan. You must know how to speak English. What would you rate this one using the same scale we started with?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "6ded706e-1c7e-4c24-853a-f5310629ad65"
+    },
+    {
+      "start_time": 2016,
+      "end_time": 2018,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright, ask me that one again. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "3b804246-255a-48c2-9c31-465ea476af00"
+    },
+    {
+      "start_time": 2018,
+      "end_time": 2026,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To be a true Texan. You must know how to speak English. What would you rate this one using the same scale that we started with?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "ec4aa1d7-1dfe-4624-895f-9ed691e8f5fd"
+    },
+    {
+      "start_time": 2026,
+      "end_time": 2038,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hmm... maybe a 3 I don't- you know- I don't think "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "5de9aa33-9ade-4cd6-a161-990aaf3416b9"
+    },
+    {
+      "start_time": 2038,
+      "end_time": 2045,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright. How about to be a true Texan? You must know how to speak Spanish?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "54b73aed-e53f-44e8-8008-222ebdea87e2"
+    },
+    {
+      "start_time": 2045,
+      "end_time": 2048,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, I don't think that something super- "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "c7be4a90-2cca-43ca-bacd-b0b9accfdb56"
+    },
+    {
+      "start_time": 2048,
+      "end_time": 2049,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So a one with that one?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "193c8244-489a-4aed-bdf6-07187ef96662"
+    },
+    {
+      "start_time": 2049,
+      "end_time": 2050,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "853d799f-3866-43ae-ada3-01ac1d4983c9"
+    },
+    {
+      "start_time": 2050,
+      "end_time": 2064,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright, the next phrase is in my community you can do everything you want and get everything you need even when you don't speak english "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "dd85a870-5876-4d6f-8196-9e7deeb68f9c"
+    },
+    {
+      "start_time": 2068,
+      "end_time": 2066,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "yes, 4 "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "6686a4e0-7682-4e20-9350-e3dbc0e7e535"
+    },
+    {
+      "start_time": 2066,
+      "end_time": 2074,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "4? Alright. Finally, in my community life has been pretty stable over the last 40 years things haven't changed much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "8cb7e571-0902-44c1-b9e3-5d164bf5e0e9"
+    },
+    {
+      "start_time": 2074,
+      "end_time": 2083,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. That's about a two. Things have changed a lot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "af477685-e37f-459e-bcca-f6fceb8f4648"
+    },
+    {
+      "start_time": 2083,
+      "end_time": 2095,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, I'd like to hear from you about the community itself. What are some of the things that you- what are some of the things that have changed in this community during the last few decades?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "72977167-c7d9-42bc-b161-c105d97ff222"
+    },
+    {
+      "start_time": 2095,
+      "end_time": 2132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, think just to My mind to begin with is we had a paper mill. We had two foundries. We had a bunch of industry and it's all gone for for one reason or another, and, uh- and we- we've turned into a medical hub for the surrounding areas. That's nothing. That's great. That's wonderful. But it was just really sad to see some of those businesses that had been here for a long time go away."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "642667b6-69b9-4e98-bb85-23b0476469af"
+    },
+    {
+      "start_time": 2132,
+      "end_time": 2135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And overall, is this a good community to live in?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "311e2d2d-32e7-4478-83b5-3aeaa3204576"
+    },
+    {
+      "start_time": 2135,
+      "end_time": 2141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A four. yes. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "ea1b973c-4d3c-4b6c-8515-2e3adbde88fb"
+    },
+    {
+      "start_time": 2141,
+      "end_time": 2153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This one, I think you could comment on all of these. Uh- What was or is the best part about being a kid or young person in this community? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "1b468a27-e94c-449e-979d-cc64800f88f0"
+    },
+    {
+      "start_time": 2153,
+      "end_time": 2202,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The best part about being a teen as well, not being a teen. I dont know- I don't. I really don't. I don't know how to answer that. I think, on the other side of the coin, I can answer. I wish there were more things and activities and to do, and, uh- I think I think we fall short a little bit there, and uh- So but I don't know. But in the and, I think that would eliminate a lot of the problems. Some of the teams get into that's Sad to see, but anyway,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "1730cd52-0925-473a-a364-6df41822d90e"
+    },
+    {
+      "start_time": 2202,
+      "end_time": 2214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you feel the traditional way of life in this community is going away? If yes, why do you think that's the case? If no, what do you think keeps things the same?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "a168e741-a78c-4d51-b985-f91f5b929d35"
+    },
+    {
+      "start_time": 2214,
+      "end_time": 2222,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I need to be I need to- define traditional are we talking like a household with mom, dad? Is that what we're talking or what are we?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "cc5f49e5-a3bc-4601-aa5f-a4914eccbd4e"
+    },
+    {
+      "start_time": 2222,
+      "end_time": 2227,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um- I guess whatever you see, is the traditional way of life or has been the traditional way of life here. This community. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "4a8942d1-d0eb-4121-b6dd-356bacb2c0df"
+    },
+    {
+      "start_time": 2227,
+      "end_time": 2248,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think it's- I think for the most part, yes, it's still I see. Uh- Mostly, uh- mostly the same, I think. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "b3f3d037-69e3-4739-bffe-a0d1185a50fd"
+    },
+    {
+      "start_time": 2248,
+      "end_time": 2252,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And why do you think that's the case?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "35421684-f4a4-4c26-a6cc-f7cddb565197"
+    },
+    {
+      "start_time": 2252,
+      "end_time": 2302,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, it's just from what I observe, I still, um- still see I still see kids participating in sports and participating in band and all those activities that I grew up participating in and I just think that I don't see a lot of change from that perspective. That's my world. But you got to know my world was not as broad as it once was. So I probably can't answer that very well. But-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "c8699358-451f-49d6-9e4c-53f9d6aafb75"
+    },
+    {
+      "start_time": 2302,
+      "end_time": 2305,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And what is your favorite sports team?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "02582aa0-757c-4b8f-a7e0-12d36ea2bd49"
+    },
+    {
+      "start_time": 2305,
+      "end_time": 2465,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, if you're talking High School certainly the [LOCAL HIGH SCHOOL]. I graduating from ****** and I bleed purple. My sports team? I'm a little different from some other folks I don't quite understand. But I have my favorite teams within the state of Texas and college. My first- my first choice is University of Texas, and I've always been always will be. So if University of Texas playing some other team inside Texas, I'm pulling for the Longhorns. But if the Aggies are playing some team over Louisiana, I'm gonna pull for the Aggies. If they've got Texas and in their name or a school in Texas, and they're playing somebody outside the state, then that's- I'm going to pull for the Texas Team every time. One of the reasons the: No you didn't ask me this. Maybe you are. My least favorite college team. And let me finish up my favorite professional team. I do the same thing: number ones the cowboys. Number two, though, I still pull when those two when they are- not the Warriors the Texans and and Dallas play. I'm usually don't pull from Dallas, unless it means that they're out of the playoffs, and Houston can get in the win, I'm probably gonna pull for Houston. I won't see him in the playoffs. But what I was gonna say about the college side of this. I do not care if the University of Oklahoma is playing tiddlywinks. I want them to lose. And here's the reason why. We had a good kid that was recruited by Texas, and Texas A&M, and Oklahoma and he ended up going to Oklahoma. This some years back, this is when Coach ***** was still alive. And I- and coach ****** told me where he was going. And I said, Well, here's what I'm gonna say about that. I hope he leads the league in tackles. I hope he never gets hurt. I hope he has an excellent season. And I hope he loses every game. And I've also made the statement that if there was a law passed that the University of Oklahoma could never, no, not ever recruit in the state of Texas, they wouldn't win three games a year, and why a kid from Texas. I'm having so proud of Texas. Why would you go up there and bring glory to them anyway? Now i'm preaching. I'm sorry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "3dc82f6b-023d-48fd-b134-669b93628aee"
+    },
+    {
+      "start_time": 2465,
+      "end_time": 2472,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I guess since you gave such a general answer. How would you say Texas as a whole has been doing lately in sports?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "c4d8616f-5f0c-4ff8-907b-31d1f37a8302"
+    },
+    {
+      "start_time": 2472,
+      "end_time": 2526,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, right. Outstanding. I'm very excited about this, this upcoming season? And if, if- I'm gonna be real disappointed, it's not a real success. And I am. You know the only the only thing that distresses me a little bit is some of the students cited that The Eyes of Texas has got a problem. And it's been there forever. And I've just anyway, sometimes, it seems to me we look for problems where there are no problems and I just- that aggravates me a little bit. But I will always be behind the Longhorns. And I hope they're back in the championship game. Good again. Matter of fact. I got a cap I started. Wearing today for the you know the Championship."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "b7af4776-75dd-4950-b5fe-4ded5db94741"
+    },
+    {
+      "start_time": 2526,
+      "end_time": 2528,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you have chores to do when you were younger?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "35c6584e-5d49-49cd-9122-358502e75aca"
+    },
+    {
+      "start_time": 2528,
+      "end_time": 2529,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did I do what?\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "f2a57dcb-d194-4984-b728-d4c5041acec3"
+    },
+    {
+      "start_time": 2529,
+      "end_time": 2531,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you have chores to do when you were younger?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "c608290d-630e-49d1-a18f-5d10744eedb9"
+    },
+    {
+      "start_time": 2531,
+      "end_time": 2714,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh my Yes. Absolutely. Uh- I, uh- mowing the yard, my dad would we work shift work. And Saturday morning he would leave about 6:30 to go to the paper mill he'd wake me up and he'd say, and you get home about three 3:15 And he'd say I want this yard mowed when I get in. Now, it was amazing to me how quick three o'clock would roll around and I had not mowed. If I'm cranking belong mower I'm safe. But if I have not started the lawn mower, its trouble. And yeah, I had and I- we had chickens for a while I had to go the eggs and got in trouble for bustin eggs on a rooster that was mean. And, uh- and those kinds of things. And while we're talking here, I'll tell you a quick thing. My neighbors were kind of like my second set of grandparents, and I was probably 14 years old 15- 15 probably. And they were having hay cut. This field back here. And I was out there piddling around and the guy that was hauling in the hay and putting it in the barn. There's bales of hay, you know they didn't do round bales back then. He asked me he said \"hey, I need a little help you interested in making some money?\" And I went \"Yeah\", and I'd hauled some hay before a little bit. And so we hauled hay. I thought we would quit at dark and we didn't. We work until about 10:30. And I cam- I came dragging in, this is, and I'm telling this story because of my dad. This was the kind of guy he was. And I got a bath and he came in there and dragging and he said \"what time you got to be out there again in the morning?\" I said, \"I don't think I'm gonna go.\" And he said, \"Did you tell this fellow that you would help him with his field of hay?\" \"Yes, sir\". He said \"then you're gonna go\". He said \"you don't have to go to the next field. But he's relying on you help him get this hay in the barn\". Now you got to know. I was the youngest of the crew. I was last one home. And one of the worst jobs about hauling hay is they're outside throwing it into the crib to you and your inside of the crib. Where, there's no air, there's dust and stacking in it. And no wind, and that was a part of the job. And then so I'm out there the next day. And I grab a bale of hay and put it on my knee and I throw it up to the guy stacking it on the truck. And there's a half a snake the head half hanging out. And I almost tendered my- my resignation at that point. But I toughed it all out. And, uh- at the end of the week, I think I worked all week and I think I made 20 bucks or something like that. And the guy said \"you want to go the next field\" I went \"uh- No, I think my hay haulin days are over\". But it was a good lesson though, I never committed to doing a job, again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "d7073f93-11fc-4b7e-b6e2-500c6d771c5e"
+    },
+    {
+      "start_time": 2714,
+      "end_time": 2718,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "out of these chores, what would you say is the worst chore? Or what's the worst chore?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "69ef60df-6817-4795-a4f4-af25392f1660"
+    },
+    {
+      "start_time": 2718,
+      "end_time": 2720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The worst chore?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "62b6dff7-3189-49be-a6a2-a918e8e11873"
+    },
+    {
+      "start_time": 2720,
+      "end_time": 2721,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "mhm. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "cf773d05-583f-4d79-b5ec-a918371c9738"
+    },
+    {
+      "start_time": 2721,
+      "end_time": 2935,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uhm- Well, there was jobs we did that I did not like, But day to day chore. I didn't like gathering the eggs because this rooster we had he would try to spur you. I mean, he tried to jump and flog you and, and you had to get a stick to get in the chicken yard and keep him at bay. Now for some reason, he wouldn't come in the chicken house. And so I could get in there gather eggs. And usually I didn't have very many I could take my stick and get back to the gate get out. Well, just one day I had a bunch of eggs. I couldn't get my stick and I'm looking out the door, and I don't see him. And I hit it for the gate. And he's laying in wait. And here he comes. I grab an egg. And I busted it on his back. And he backs off of me, and then I grab another one before I'm thinking and I hit him again. He starts running, and I hit him again. And I got chicken squawking and I got egg yolk hang in there. And dad hears the commotion comes out. There he goes. And then he spoke to me about busting eggs. And uh- that was not a good conversation. So I hated that rooster finally ended up in a dumpling pot. And it was happy day for me. But, but I didn't like that. But then one time, we had an old timey septic system, we didn't have the aerobic system and that old ground where we lived was really not suitable wasn't very sandy. And so we were always having trouble with that thing and dad called a guy to have the septic tank pumped out and the guys they couldn't get there and we were having problems and he he said \"we're gonna get out here and dip this thing out.\" And I went: \"huh? no, Surely not.\" And he said \"yes.\" So he had a little trailer behind the lawn mower and some cans and garbage and rubber gloves. And so we we dipped it out. So I had some chores I wasn't particularly fond of doing. He also had me one time he raised a garden every year, every year every year. And we had this little walk behind tractor two wheeled tractor. And he- he was had a turning plow. And then one February, he said I need you to, uh- break up the garden. I said, Okay. And he said, I've got something he's going to be working on something else. And this tractors little tractor thing, had a pulley that stuck out from the engine with a notch in it. You had a rope with a wooden handle on it, you wrapped it around that and you yanked on it. And that's how you cranked it. It was cold. It was it was a cold day. And my ears were cold. And sometimes the thing would kind of backfire and that knot would slip out. Well that happened that day and it popped me on my ear. And I take- before I think about it, I take this starting rope and I'll start beating on the tractor. Just waling away, waling away. And I look up and there's my dad looking at me and he says- he said \"did that help?\" \"Well, it helps me\". He said \"well get through with it and get busy\".  I said \"Okay\", but anyway, those are some of the chores there was a bunch of others he always had, I made the mistake of telling him one time I was bored. And he said, \"get the hoe and come go with me to the garden. I've got a nail for your board\". "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "9fb325ec-e412-4213-a7a4-f3f19c35da60"
+    },
+    {
+      "start_time": 2935,
+      "end_time": 2938,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was a chore you didn't mind so much?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "0bd1f51f-aa5e-4f1b-9a9b-5ada590e320a"
+    },
+    {
+      "start_time": 2938,
+      "end_time": 2991,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One I didn't mind? Uh- I didn't mind shellin- I-  we had the garden. I didn't mind shelling peas because you sat in the shade. I didn't mind picking peas too much ever- either. I didn't mind pulling the corn and that sort of thing. But that's probably the rest of them- my job was mowing and we had a push mower we had a big yard. We didn't do weed eating back then. Nobody had weed eater but we don't worry about that I guess but- I begged and begged him to buy a riding lawnmower. I said I'll mow it all the time if you buy it. When I moved out, he bought a riding lawn mower and I said I said \"why you buy that a riding lawn mower now?\" He said \"well, I didn't need one when you were here\". I said \"okay.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "98b54b6b-336b-4941-8766-822c96a3bd37"
+    },
+    {
+      "start_time": 2991,
+      "end_time": 2995,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you ever get caught pretending to do a chore but not really doing it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "6888bcee-90f3-4249-9f53-13df0e990e94"
+    },
+    {
+      "start_time": 2995,
+      "end_time": 3059,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The first thing that pops in my mind was Dad remodeling the house we tore down an old garage, and, uh my buddy who's still my best friend who's a retired attorney, ***** ******. He and I were supposed to be pulling nails out of these boards. He was gonna save from our old garage. And, uh- the Army Navy game was on, and dad being in the Army, I'm pulling for army, and it was kind of cold that day. I think he came and got us three times watching after the football game and he said \"I'm not coming after you again? It's gonna be a whipping in this\" and I said \"Okay\", so we we finished pulling nails. But yeah, I thought he was busy around the other side and couldn't see us and we would get going for a little while, and then we'd stop"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "3832ff9f-a11b-4f77-a9d0-9c2c9d45e055"
+    },
+    {
+      "start_time": 3059,
+      "end_time": 3063,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "some people think that it's hard for boys and girls to be friends. What do you think? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "782b13ca-4331-4c49-9fcb-bb2d0d569428"
+    },
+    {
+      "start_time": 3063,
+      "end_time": 3064,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some people?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "b8d6bb54-6b23-4264-81a8-942a1ce58b31"
+    },
+    {
+      "start_time": 3064,
+      "end_time": 3069,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some people think that it's hard for boys and girls to be friends. What do you think?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "ccacc9ba-5f2b-401f-957b-a420f64d3014"
+    },
+    {
+      "start_time": 3069,
+      "end_time": 3080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, I- you know, I think it doesn't matter if you have the same interest and, and good people are good people. and No.\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "c09cf1dd-1115-4a1b-bcc3-f9a3d6368982"
+    },
+    {
+      "start_time": 3080,
+      "end_time": 3088,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you ever tell a story about another person thinking the other person was not near you, but then turned around and saw that person was standing right next to you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "a35c3258-2c69-4086-9b58-2b2b9022e3db"
+    },
+    {
+      "start_time": 3088,
+      "end_time": 3144,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm trying to remember. I'm sure that happened. But I probably put it out of my mind. But, uh- it wasn't me. But I worked for a savings and loan at one point. We had branches and Trinity and everywhere. We had a radio system. A good one we could talk back and forth. We had- we had handheld units. And the boss and his a couple of his folks had were visiting some of the branches. And they had the radio in the seat. And they just left a branch, and the branch wasn't doing very well, and somebody pushed up against the button and transmitted and they were talking about the branch manager. Everybody heard, but that wasn't me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "9a094627-032e-4f83-97ea-447d5f57ab5a"
+    },
+    {
+      "start_time": 3144,
+      "end_time": 3153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A lot of people think the 1990s as the golden decade of pop music. Do you agree?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "1ff5b602-5b2c-4bc8-af10-63a8cabf499d"
+    },
+    {
+      "start_time": 3153,
+      "end_time": 3171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, probably so. I'm not a big pop. You know. I'm stuck in the 60s and the 70s, I'm the Eagles and those guys, country western but but yeah, there's some, some that you should not lie. But-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "4ac6ef18-be0b-46c6-aa34-87343ad93e7e"
+    },
+    {
+      "start_time": 3171,
+      "end_time": 3215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right. Well, thank you so much for your answers. I really, really appreciate you taking the time to talk with me. If you have the time. I just have one last request for you. Before we conclude the interview. One of the overarching research questions to the home to Texas program is about linguistic changes in Texas. As a part of this project, a linguistic researcher is asking that interview participants read a brief passage, which should only take a couple of minutes. It's a short made up story about life in Texas that was created in the 1980s and since then, linguistic researchers have recorded a few 100 Texans reading it they use these recordings as samples of people's standard way of speaking as they try to track how speech in Texas varies and changes over time. Would you be willing to read this passage out loud?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "764f0e85-8173-4613-bbf9-4b15658e371a"
+    },
+    {
+      "start_time": 3215,
+      "end_time": 3254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, let me see what you got. I mean, let me see- read- I don't hear very well. And you (Hands them the excerpt explaining the segment, walking, pages turning) mmm- yeah"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "7b3c5d7d-660d-4e71-999c-36d11f72f083"
+    },
+    {
+      "start_time": 3254,
+      "end_time": 3256,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright. Here's the passage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "5caa09b3-646b-4691-b877-da11c42372ba"
+    },
+    {
+      "start_time": 3256,
+      "end_time": 3267,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh that's what you had a while ago. Okay, so you now, let me be sure I understand: you want me to read this out loud or do you want me to-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "3f7f74fb-89e6-42c5-b949-9b7d3836159e"
+    },
+    {
+      "start_time": 3267,
+      "end_time": 3267,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "read it out loud."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "b5817bc9-f00c-4812-ac29-f63b63d2f868"
+    },
+    {
+      "start_time": 3267,
+      "end_time": 3268,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Read it out loud?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "08cbc93b-c7fe-4a05-849b-d4797f5d7d5f"
+    },
+    {
+      "start_time": 3268,
+      "end_time": 3269,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mhm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "297ac420-cd07-44be-9eb7-a2ccb4bbff09"
+    },
+    {
+      "start_time": 3269,
+      "end_time": 3387,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. I've lived in Texas all my life. I was born in Titus County, and when I was five, we moved to a farm near White House which is southeast of Tyler. I liked growing up in the country. When my chores were done, I'd ride my horse, climb trees or hike down to the creek to fish or swim. One time, we tied a rope to a limb of a cypress tree, and would swing out wide over the swimming hole and drop into the water. Pretending to be Tarzan swinging on a vine. In the spring, I'd fly kites, and on summer nights, we'd catch fireflies, but we call them lightning bugs. Once in a while we'd have fights with corncobs or pine cones. In the winter, we'd build a fire in the fireplace and pop popcorn and roast peanuts and pecans. I guess I was a live wire. When I was 19, I went to work in Dallas in a Firestone Tire store. I didn't like city life, and for a long time I'd go home every chance I got. Mama would always cook my favorite food: fried okra, hoppin john, that's rice and Black Eyed Peas, and pecan pie. We had lots of good times, but going home is not the same now. After daddy died, mom sold the farm and moved to Tyler. I'd rather be living on a farm right now instead of here in the city, but my wife and kids don't understand me when I gripe about city life and talk about moving to the country. My oldest child says \"Daddy, that's crazy. I'd just die if I had to live on a farm\" I almost cried the first time she said that. I know Texas is changing, but I try to make sure we don't lose touch with our roots. While we may live in a city, I want my kids to have a good feeling for the land, have a sense of place, and take pride in being Texans. If they lose our ties to the land, the price of progress is too high."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "bd962b15-921d-44b8-97a3-fb093ad125fa"
+    },
+    {
+      "start_time": 3387,
+      "end_time": 3399,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you for contributing your voice to the collection. And thank you so much for taking time to share your experience with me. I really appreciate your time and generosity. If you don't have any other questions or comments. I'll go ahead and stop the recording now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "8ab692f9-94a8-45bf-960e-6c6132345d4f"
+    },
+    {
+      "start_time": 3399,
+      "end_time": 3637,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, based on how we talk now. Talk just a second about my my grandpa *****. My dad's dad had a little farm probably 60 acres. The house had the old old truck, no indoor plumbing. And there's a story about that I'll tell you for another time. My grandpa could not he could not read. He could not write he could write his name. Worked all of his life hard. It's all he knew. He cut logs. he cut trees. And um- he, uh- he would come in and his shirt would be strict with white stripes of salt where his sweat had left. And the way he talked. it's funny, I'd pick up some of it when I'm there, then I would lose it when I would go away. But I would say things like, I could remember he said, \"You know, I told John that when when he went to get that cow I'd he'p em if he needed me to he'p em him get it in the lot\". And so the words they used were different. As a matter of fact, I wrote a- of course since I wrote a thing the other day that I said something to my wife, or somebody that was here. And I said- I said they stay just a second? And they left? And I said \"why don't you come after a coal of fire?\" And she looked at and went \"what are you talking about?\" Now I thought you know a lot of folks might not know this. But in the old days, in those days, in his days, all the head for heat was fireplace. And if you ran out of matches, or you couldn't afford matches, which might have been the case many times all you ur- to start to get a fire going again, the thing you did was you go down to the neighbor and ask for a coal of his fire. But you couldn't stay, you had to get the coal and get back before it went out. So they had those kinds of sayings and, and I picked up some of them, and my wife, one of one of the other ones I'll tell you and move on. Let me back up for a second and tell you about you know, and my grandfather would be one of those people that you said was- he believed the Earth was flat. didn't believe a man went on the moon. And the reason he did he'd have my dad read the Bible to him from time to time when we go down there. And he said \"the Bible speaks to the four corners of the earth\". And what it's talking about is north, south, east, and the west. But that's not the way he saw it. He said you can't make a circle out of a square if there's four corners. There's not a circle. So that was his rationale on that. But he was honest as the day was long. And my point in this and I wanted to say this is: while he was not educated as you would think of being educated, He could tell you when to plant, How deep to plant, Which cow is most likely to have a calf, Which cow is most likely produce the most milk. He possessed knowledge, that I don't possess that will help you live if you had to, in a different world without electricity and stuff. They had- they had some. But one of the other things and then I'll stop because there's a bunch of them, but we were talking about. Some of us were talking about where to go eat after church one day. And my dad said, I'd ask him, I said, \"Dad where do you want to go\", he said, \"I'm kind of like a sounds mule. I'll work either side of the tongue.\" Now, do you have any idea what he's talking about?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "be198f7d-8854-4dd2-a8de-ad97a0d3a544"
+    },
+    {
+      "start_time": 3637,
+      "end_time": 3638,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "1f91a50a-c165-49b9-8abf-a542d2fedd64"
+    },
+    {
+      "start_time": 3638,
+      "end_time": 3707,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My wife didn't either. Well, here's- here's the deal. When the old days when you had a wagon, and you had two mules, mules can be stubborn. And many, many times a mule would only work on the left side of the wagon tongue, and he only worked or the other one would only work when you couldn't make them switch out. wouldn't do it. But you find a new work either side, now he's easy going. And so there's, they want to know about, you know, what, old sayings? Those are a couple. And- and I don't know if these are some that my dad brought over. But his- I've written down some of his. He has a bunch of them. One of them was when I'd do something foolish, which was often. He would, he'd look at me, and he goes \"Son, If you fell in the river, I'd go upstream to look for you. Because I'm gon' float the opposite way\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "9a23b163-5d09-4aba-966d-7e9d1f1d8dad"
+    },
+    {
+      "start_time": 3707,
+      "end_time": 4115,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And he had some that- one that I have a hard time remembering, but that's really- when I would complain to him about some wrong that he would tell me two things. I said- I said \"That guy is just a rat dad, he's, he's not fair\". Then he said, \"Hey, first of all, life's not fair. And if you want fair, you're going to have to wait till October. That's when it comes to town. Cause that's the only fair I know. And the other thing I'm going to tell you is two horses behinds have never made a horse. One of you have got to be the head and do the thinking. Is that going to be you?\" And, I'll try, and that ain't always easy. But good advice. I've got a bunch if you want more but thats- my grandpa told my cousin one time, he was helping him in the garden. He thought he was doing a good thing. But he was trying to make it look nice and he's over here, Hoeing not not hoeing the row. Pa ***** looked at him and he said, \"Son, you lose a crop hoeing in the corner of the garden\". And I thought you know, that's good advice. It looks nice, but you're not doing anything productive. You're just piddling, and so he, uh- he was he was in many ways was a really a smart fella. And he- he was at a brush arbor meeting one time and this is my dad's story. He said he was a stout. He wasn't real tall. My dad's mom's family was 6'3-6'4. So my dad was six one, I'm about six. But Pa ***** was probably 5'10''. Maybe no more. But he was stocky and strong. And they went to this brush arbor meeting and the preacher was going on and on and on. And, uh- Pa had to go to the bathroom. So he got up and was working his way out to go I guess up behind a tree I don't know, And the preacher said, \"Ah ha, there goes one that got his corn shelled.\" made Pa mad. Pa looked at him. He said \"Tell you what feller. You come down the road a little ways. I'll shell your corn.\" so he was sometimes no nonsense. He told me I don't have it on me right now. He would, uh- We went to see him one time, and he's he always kept yellow handled case pocket knife. And he was sharpening it kept it razor sharp, and he was sharpening it when I got up there and he was showing me how to do it. And all. And he said, he said \"Now let me tell you\". That's the other way he was wise. He said \"you get your mama. You see if you get you one of these knives, get your mama to put a baked potato in the oven and get it hot and when it's hot. Stick that knife in and leave it so long\". forgotten how long he said \"take it out, hit it a few licks, put it in cold water and do it again\" and he said \"it'll be set and you'll hold edge\". I said, \"Okay\". And he said, \" But let me show you\" he said\" you need one of these\". He said, \"first of all case makes a good knife\". He said, \"second of all, the reason you want a yellow handle case is because if you drop it in the woods, you never will find a bone handle in them leaves, you will find this yellow handle one, pretty easy\". I've carried a yellow handle case for years. What my Pa ***** told me. And so, um- they- I have a life insurance lessons, and I had to go to these seminars to maintain the continue of education. And this guy was talking about investments and how the people- many people retire at poverty level and you need to diversify your portfolio and stuff, and I said- at the end of the day, I said-  \"You know, I have a grandfather that probably he qualifies poverty level.\" I said. \"But let me tell you something about him. He didn't care the first thing about going to Hawaii. He didn't even want to go to Houston. I said one time we were coming back from Houston, and he and I were to see his brother and there's two things I remember about that trip I was probably 10 years old. And one of them was we just got finally got out of the Houston traffic and he said \"I'm gonna tell you one thing if **** will see me he'll come to ****\" or ***** he lived out of *****. He said \" I ain't coming back this place\". We we got to the end- to the Neches River Bridge. And when we got across the bridge. He looked over at me that notion he said \"we back in the United States now son\"\" that's the way he saw it. But he was he was a fine fella and my dad was is as good as gold. My mom was super I've written some stories, written a lot of them I need to keep the bottle them together of things that they've done but but they they talked all together different. I mean, it was the deep south, you know, but I was very fortunate. I had um- my mother's- My mother was a ****** and she grew up in the **** area. And my grandpa ******* old place was a rock house right across from **** school. He used to raise crops where **** school sits. I don't know that that was his land. But he did that. And his name was Harold ******. I wasn't as close to him he- Pa pa was kind of a gruff- not as open as my grandpa ***** and me. We got along and all that. But he worked on- he played fiddle. Oh, he could play a fiddle. I have it I ended up with it. can't play it, but I've got it. But , uh-anyway. Well, I I like to talk I've got plenty of stories and good things. But I hope that was kind of what you were looking for on that. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "cff9a646-58fb-45b4-b766-5d361eaa0833"
+    },
+    {
+      "start_time": 4115,
+      "end_time": 4117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well yeah. Thank you. You gave me some really good- "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "3fc46ea3-d257-4ff0-925a-65e8da825bbd"
+    },
+    {
+      "start_time": 4117,
+      "end_time": 4167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You bet. Very proud of you. You know I think a lot of your mom and and the whole family. ***** was a customer at the bank. I've known for ***** for a long time actually I didn't do a lot with him he was in- with the other guy but but but he works- he's a working guy. He don't mind working, and anybody that works I respect them they just uh- are good folks. *****'s mom I've not been around too much but she's a very nice lady and times- I've been around her but but you're liking it out there. Okay. and everything? Good. Good. You didn't get home sick?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "dbb93da5-2aba-42e3-9456-ef36d44d4736"
+    },
+    {
+      "start_time": 4167,
+      "end_time": 4169,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If you don't mind. I'm gonna stop recording."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Interviewer"
+        }
+      ],
+      "uuid": "85a89c49-bef6-4170-ab1d-5cd40210526a"
+    },
+    {
+      "start_time": 4169,
+      "end_time": 4172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh yeah. yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript, Speaker"
+        }
+      ],
+      "uuid": "6cec1cff-bc70-4721-8f8b-8de0ac366803"
+    }
+  ],
   "set": "Default",
   "event_id": "ade190c0-7bfd-4c2d-a8c0-f9c7701c2b84",
   "source_id": "5743771d-c680-4af6-beae-044923d1e571"
